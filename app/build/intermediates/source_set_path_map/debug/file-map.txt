@@ -1,0 +1,37 @@
+com.example.page_number_01.app-navigation-common-2.3.5-0 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\04373630aaefd8cc3b8524fbd4091539\transformed\navigation-common-2.3.5\res
+com.example.page_number_01.app-viewpager2-1.0.0-1 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\055dd8bab648cd5fa15cf4311421414b\transformed\viewpager2-1.0.0\res
+com.example.page_number_01.app-lifecycle-runtime-2.4.0-2 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0b0e12bcbd15013484050e6a6ff24e2a\transformed\lifecycle-runtime-2.4.0\res
+com.example.page_number_01.app-material-1.6.1-3 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0d17419064caa93c3408fcdb59e80409\transformed\material-1.6.1\res
+com.example.page_number_01.app-lifecycle-process-2.4.0-4 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0d4b0fee92f3ca7835970f92e529be57\transformed\lifecycle-process-2.4.0\res
+com.example.page_number_01.app-cardview-1.0.0-5 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0fe9fdfa65b36106970a343ac08a572d\transformed\cardview-1.0.0\res
+com.example.page_number_01.app-play-services-basement-17.0.0-6 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\19b9f43409a4ccfc4305642a9035e459\transformed\play-services-basement-17.0.0\res
+com.example.page_number_01.app-constraintlayout-2.1.4-7 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\1afcdec5cdde72f776d05f9e809eb8d4\transformed\constraintlayout-2.1.4\res
+com.example.page_number_01.app-navigation-fragment-2.3.5-8 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\271fc0b03c2154e51d0f574375c28138\transformed\navigation-fragment-2.3.5\res
+com.example.page_number_01.app-emoji2-1.0.0-9 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\2ae7c3a08a26597dc128a34a374f2da2\transformed\emoji2-1.0.0\res
+com.example.page_number_01.app-navigation-runtime-2.3.5-10 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\2aea2435b9678631b310dfa1ce20552c\transformed\navigation-runtime-2.3.5\res
+com.example.page_number_01.app-navigation-ui-2.3.5-11 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\2ced9722a34d1a59c994aeb7a379d852\transformed\navigation-ui-2.3.5\res
+com.example.page_number_01.app-savedstate-1.1.0-12 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\325750f32fc9cf8218663b50501d10f7\transformed\savedstate-1.1.0\res
+com.example.page_number_01.app-recyclerview-1.2.0-13 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\328b0d861fd595f90515d8b95e070953\transformed\recyclerview-1.2.0\res
+com.example.page_number_01.app-transition-1.3.0-14 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\4f7b7a52fa06ffea1717583861b0fc4a\transformed\transition-1.3.0\res
+com.example.page_number_01.app-drawerlayout-1.1.1-15 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\712bb3a8f0c287260a4be0f6758f4f62\transformed\drawerlayout-1.1.1\res
+com.example.page_number_01.app-lifecycle-viewmodel-2.3.1-16 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\76013d32a0a6eeeed0c903df5e701c4d\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.page_number_01.app-emoji2-views-helper-1.0.0-17 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\7dc1b7eeefbad46aa051e2f37bba5247\transformed\emoji2-views-helper-1.0.0\res
+com.example.page_number_01.app-startup-runtime-1.0.0-18 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\9d317c3a3c8d62672359fb33151fa8af\transformed\startup-runtime-1.0.0\res
+com.example.page_number_01.app-play-services-base-17.1.0-19 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\a3118ea859500e2fe9c64c6e25e08eb0\transformed\play-services-base-17.1.0\res
+com.example.page_number_01.app-play-services-maps-17.0.1-20 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\aa32ad2d6a2b9399ab083add90723819\transformed\play-services-maps-17.0.1\res
+com.example.page_number_01.app-fragment-1.3.6-21 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\b111b5731a2647f7eb41d75aa6dbe314\transformed\fragment-1.3.6\res
+com.example.page_number_01.app-appcompat-resources-1.4.2-22 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\be61e35e8459a01d9772389533b7c029\transformed\appcompat-resources-1.4.2\res
+com.example.page_number_01.app-appcompat-1.4.2-23 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\d32dea67906f0c301998e888078f8d74\transformed\appcompat-1.4.2\res
+com.example.page_number_01.app-core-ktx-1.7.0-24 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\e3473e2983bfa4f2f4c514f9fd71dd98\transformed\core-ktx-1.7.0\res
+com.example.page_number_01.app-core-1.7.0-25 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\e7d7ca173d3ef3819066a5eafa48db73\transformed\core-1.7.0\res
+com.example.page_number_01.app-coordinatorlayout-1.1.0-26 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\ecda6ba8fb73af3ceba1bb5d5e9649b9\transformed\coordinatorlayout-1.1.0\res
+com.example.page_number_01.app-annotation-experimental-1.1.0-27 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\ff2eb9bff7c44d886758be1da903ee94\transformed\annotation-experimental-1.1.0\res
+com.example.page_number_01.app-google-services-28 D:\Project\Foodies_Way\app\build\generated\res\google-services\debug
+com.example.page_number_01.app-pngs-29 D:\Project\Foodies_Way\app\build\generated\res\pngs\debug
+com.example.page_number_01.app-resValues-30 D:\Project\Foodies_Way\app\build\generated\res\resValues\debug
+com.example.page_number_01.app-rs-31 D:\Project\Foodies_Way\app\build\generated\res\rs\debug
+com.example.page_number_01.app-packageDebugResources-32 D:\Project\Foodies_Way\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.page_number_01.app-packageDebugResources-33 D:\Project\Foodies_Way\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.page_number_01.app-merged_res-34 D:\Project\Foodies_Way\app\build\intermediates\merged_res\debug
+com.example.page_number_01.app-debug-35 D:\Project\Foodies_Way\app\src\debug\res
+com.example.page_number_01.app-main-36 D:\Project\Foodies_Way\app\src\main\res

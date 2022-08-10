@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Image_view_for_app" type="id" />
+    <item name="Login_as_user_button" type="id" />
+    <item name="Login_as_restraunt_owner_button" type="id" />
+    <item name="OR_between_buttons" type="id" />
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.246" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.246" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2585" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.2445" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2595" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_email_24.xml" value="0.2595" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/drawable/ic_person_24.xml" value="0.2595" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_booking_details_revisited.xml" value="0.2" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_booking_page_for_button01.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button01.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button02.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button03.xml" value="0.24010416666666667" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button04.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button05.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button06.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button07.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button08.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button09.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button11.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button12.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button13.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button14.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button15.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button16.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button17.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_clicking_on_button18.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_conformation_message_for_button1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_conformational_message_for_button1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_menu_after_clicking_button01.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_menu_after_clicking_button01_number02.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_menu_after_clicking_button01_number03.xml" value="0.20244565217391305" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_menu_after_clicking_button01_number04.xml" value="0.20244565217391305" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_page_number02.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_res.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_restaurant_near_by_locat.xml" value="0.12360688956433637" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_restaurant_owner_login_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number01.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number02.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_scroll_view_restaurant_near_by_location.xml" value="0.25416666666666665" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_user_log_in_page.xml" value="0.17307692307692307" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/activity_user_sign_in_page.xml" value="0.25" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/card_view.xml" value="0.2956204379562044" />
+        <entry key="..\:/Download_in_folder_D/page_number_01/app/src/main/res/layout/page_number_02.xml" value="0.24010416666666667" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_email_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/ic_person_24.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/drawable/revisit_icon.xml" value="0.133" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_booking_details_revisited.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_booking_page_for_button01.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button01.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button02.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button03.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button04.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button05.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button06.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button07.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button08.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button09.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button10.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button11.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button12.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button13.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button14.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button15.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button16.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button17.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_clicking_on_button18.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_conformational_message_for_button1.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_menu_after_clicking_button01.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_menu_after_clicking_button01_number02.xml" value="0.1" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_menu_after_clicking_button01_number03.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_menu_after_clicking_button01_number04.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_page_number02.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_restaurant_near_by_locat.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_restaurant_owner_login_page.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number01.xml" value="0.1578125" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number02.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_scroll_view_restaurant_near_by_location.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_user_log_in_page.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/activity_user_sign_in_page.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/card_view.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/fragment_first.xml" value="0.15081521739130435" />
+        <entry key="..\:/Project/Foodies_Way/app/src/main/res/layout/fragment_second.xml" value="0.15081521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

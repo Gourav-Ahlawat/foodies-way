@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">309989279258-48e1t6uk85v9mjsfkhh7lo2cgt9c6t33.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">309989279258</string>
+    <string name="google_api_key" translatable="false">AIzaSyDm9jshomwjkjGhgVx54pWctiBkTN9SLkM</string>
+    <string name="google_app_id" translatable="false">1:309989279258:android:fc6058223ab7ac8815f3a3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDm9jshomwjkjGhgVx54pWctiBkTN9SLkM</string>
+    <string name="google_storage_bucket" translatable="false">foodies-way.appspot.com</string>
+    <string name="project_id" translatable="false">foodies-way</string>
+</resources>

@@ -1,0 +1,44 @@
+<changelist name="Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]" date="1660064989404" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 09-08-2022 22:39 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/SecondFragment.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/SecondFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/SecondFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/UserLogInPage.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/UserLogInPage.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/UserLogInPage.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/UserLogInPage.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/UserLogInPage.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/UserLogInPage.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/FirstFragment.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/FirstFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/FirstFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/booking_details_revisited.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/booking_details_revisited.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/booking_details_revisited.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/FirstFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/FirstFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/FirstFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/booking_details_revisited.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/page_number_01/booking_details_revisited.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/booking_details_revisited.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/SecondFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/page_number_01/SecondFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09-08-2022_22_39_[Changes]/SecondFragment.dex" />
+  </binary>
+</changelist>

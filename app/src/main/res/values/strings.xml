@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Foodies Way</string>
+    <string name="hint_password" />
+
+    <string name="hello_let_s_set_up_your_account">Hello, let\'s set up your account</string>
+    <string name="title_activity_restaurant_near_by_location">restaurant_near_by_location</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="restaurant_name">Restaurant_Name</string>
+    <string name="address">address</string>
+    <string name="view_more">View More</string>
+    <string name="title_activity_user_location_page">User_location_page</string>
+</resources>
