@@ -23,17 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\caches\\transforms-3\\d32dea67906f0c301998e888078f8d74\\transformed\\appcompat-1.4.2\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\Foodies_Way\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "D:\\Project\\my_frontend\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -47,6 +37,16 @@
                         "startOffsets": "264",
                         "endColumns": "41",
                         "endOffsets": "301"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\caches\\transforms-3\\d32dea67906f0c301998e888078f8d74\\transformed\\appcompat-1.4.2\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

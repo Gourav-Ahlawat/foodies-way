@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml
+8-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml
+9-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 10    <!-- add internet permission -->
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:6:5-67
-11-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:6:22-64
+11-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:6:5-67
+11-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:6:22-64
 12
 13    <!-- Include required permissions for Google Maps API to run. -->
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -46,262 +46,262 @@
 28-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\b7377e0fb5c9f3c34b4a4b28ec14a07c\transformed\play-services-measurement-17.2.2\AndroidManifest.xml:26:22-107
 29
 30    <application
-30-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:8:5-137:19
+30-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:8:5-137:19
 31        android:allowBackup="true"
-31-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:9:9-35
+31-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:9:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.7.0] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\e7d7ca173d3ef3819066a5eafa48db73\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 33        android:dataExtractionRules="@xml/data_extraction_rules"
-33-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:10:9-65
+33-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:10:9-65
 34        android:debuggable="true"
 35        android:fullBackupContent="@xml/backup_rules"
-35-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:11:9-54
+35-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:11:9-54
 36        android:icon="@mipmap/ic_launcher"
-36-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:12:9-43
+36-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:12:9-43
 37        android:label="@string/app_name"
-37-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:13:9-41
+37-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:13:9-41
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:14:9-54
+38-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:14:9-54
 39        android:supportsRtl="true"
-39-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:15:9-35
+39-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:15:9-35
 40        android:testOnly="true"
 41        android:theme="@style/Theme.Page_number_01" >
-41-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:16:9-52
+41-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:16:9-52
 42        <activity
-42-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:18:9-20:40
+42-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:18:9-20:40
 43            android:name="com.example.page_number_01.Just_for_fun"
-43-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:19:13-41
+43-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:19:13-41
 44            android:exported="false" />
-44-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:20:13-37
+44-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:20:13-37
 45        <activity
-45-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:21:9-23:40
+45-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:21:9-23:40
 46            android:name="com.example.page_number_01.booking_details_revisited"
-46-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:22:13-54
+46-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:22:13-54
 47            android:exported="false" />
-47-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:23:13-37
+47-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:23:13-37
 48        <activity
-48-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:24:9-26:40
+48-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:24:9-26:40
 49            android:name="com.example.page_number_01.conformation_message_for_button_1"
-49-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:25:13-62
+49-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:25:13-62
 50            android:exported="false" />
-50-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:26:13-37
+50-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:26:13-37
 51        <activity
-51-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:27:9-29:40
+51-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:27:9-29:40
 52            android:name="com.example.page_number_01.booking_page_for_button_01"
-52-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:28:13-55
+52-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:28:13-55
 53            android:exported="false" />
-53-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:29:13-37
+53-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:29:13-37
 54        <activity
-54-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:30:9-32:40
+54-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:30:9-32:40
 55            android:name="com.example.page_number_01.Menu_after_clicking_button01_number_04"
-55-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:31:13-67
+55-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:31:13-67
 56            android:exported="false" />
-56-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:32:13-37
+56-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:32:13-37
 57        <activity
-57-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:33:9-35:40
+57-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:33:9-35:40
 58            android:name="com.example.page_number_01.Menu_after_clicking_button01_number_03"
-58-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:34:13-67
+58-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:34:13-67
 59            android:exported="false" />
-59-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:35:13-37
+59-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:35:13-37
 60        <activity
-60-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:36:9-38:40
+60-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:36:9-38:40
 61            android:name="com.example.page_number_01.Menu_after_clicking_button01_number_02"
-61-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:37:13-67
+61-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:37:13-67
 62            android:exported="false" />
-62-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:38:13-37
+62-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:38:13-37
 63        <activity
-63-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:39:9-41:40
+63-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:39:9-41:40
 64            android:name="com.example.page_number_01.Menu_after_clicking_button_01"
-64-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:40:13-58
+64-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:40:13-58
 65            android:exported="false" />
-65-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:41:13-37
+65-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:41:13-37
 66        <activity
-66-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:42:9-44:40
+66-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:42:9-44:40
 67            android:name="com.example.page_number_01.Clicking_on_Button_18"
-67-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:43:13-50
+67-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:43:13-50
 68            android:exported="false" />
-68-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:44:13-37
+68-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:44:13-37
 69        <activity
-69-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:45:9-47:40
+69-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:45:9-47:40
 70            android:name="com.example.page_number_01.Clicking_on_Button_17"
-70-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:46:13-50
+70-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:46:13-50
 71            android:exported="false" />
-71-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:47:13-37
+71-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:47:13-37
 72        <activity
-72-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:48:9-50:40
+72-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:48:9-50:40
 73            android:name="com.example.page_number_01.Clicking_on_Button_16"
-73-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:49:13-50
+73-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:49:13-50
 74            android:exported="false" />
-74-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:50:13-37
+74-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:50:13-37
 75        <activity
-75-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:51:9-53:40
+75-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:51:9-53:40
 76            android:name="com.example.page_number_01.Clicking_on_Button_15"
-76-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:52:13-50
+76-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:52:13-50
 77            android:exported="false" />
-77-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:53:13-37
+77-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:53:13-37
 78        <activity
-78-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:54:9-56:40
+78-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:54:9-56:40
 79            android:name="com.example.page_number_01.Clicking_on_Button_14"
-79-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:55:13-50
+79-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:55:13-50
 80            android:exported="false" />
-80-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:56:13-37
+80-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:56:13-37
 81        <activity
-81-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:57:9-59:40
+81-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:57:9-59:40
 82            android:name="com.example.page_number_01.Clicking_on_Button_13"
-82-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:58:13-50
+82-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:58:13-50
 83            android:exported="false" />
-83-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:59:13-37
+83-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:59:13-37
 84        <activity
-84-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:60:9-62:40
+84-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:60:9-62:40
 85            android:name="com.example.page_number_01.Clicking_on_Button_12"
-85-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:61:13-50
+85-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:61:13-50
 86            android:exported="false" />
-86-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:62:13-37
+86-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:62:13-37
 87        <activity
-87-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:63:9-65:40
+87-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:63:9-65:40
 88            android:name="com.example.page_number_01.Clicking_on_Button_11"
-88-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:64:13-50
+88-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:64:13-50
 89            android:exported="false" />
-89-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:65:13-37
+89-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:65:13-37
 90        <activity
-90-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:66:9-68:40
+90-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:66:9-68:40
 91            android:name="com.example.page_number_01.Clicking_on_Button_10"
-91-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:67:13-50
+91-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:67:13-50
 92            android:exported="false" />
-92-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:68:13-37
+92-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:68:13-37
 93        <activity
-93-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:69:9-71:40
+93-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:69:9-71:40
 94            android:name="com.example.page_number_01.Clicking_on_Button_09"
-94-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:70:13-50
+94-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:70:13-50
 95            android:exported="false" />
-95-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:71:13-37
+95-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:71:13-37
 96        <activity
-96-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:72:9-74:40
+96-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:72:9-74:40
 97            android:name="com.example.page_number_01.Clicking_on_Button_08"
-97-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:73:13-50
+97-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:73:13-50
 98            android:exported="false" />
-98-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:74:13-37
+98-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:74:13-37
 99        <activity
-99-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:75:9-77:40
+99-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:75:9-77:40
 100            android:name="com.example.page_number_01.Clicking_on_Button_07"
-100-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:76:13-50
+100-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:76:13-50
 101            android:exported="false" />
-101-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:77:13-37
+101-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:77:13-37
 102        <activity
-102-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:78:9-80:40
+102-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:78:9-80:40
 103            android:name="com.example.page_number_01.Clicking_on_Button_06"
-103-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:79:13-50
+103-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:79:13-50
 104            android:exported="false" />
-104-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:80:13-37
+104-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:80:13-37
 105        <activity
-105-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:81:9-83:40
+105-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:81:9-83:40
 106            android:name="com.example.page_number_01.Clicking_on_Button_05"
-106-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:82:13-50
+106-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:82:13-50
 107            android:exported="false" />
-107-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:83:13-37
+107-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:83:13-37
 108        <activity
-108-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:84:9-86:40
+108-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:84:9-86:40
 109            android:name="com.example.page_number_01.Clicking_on_Button_04"
-109-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:85:13-50
+109-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:85:13-50
 110            android:exported="false" />
-110-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:86:13-37
+110-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:86:13-37
 111        <activity
-111-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:87:9-89:40
+111-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:87:9-89:40
 112            android:name="com.example.page_number_01.Clicking_on_Button_03"
-112-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:88:13-50
+112-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:88:13-50
 113            android:exported="false" />
-113-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:89:13-37
+113-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:89:13-37
 114        <activity
-114-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:90:9-92:40
+114-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:90:9-92:40
 115            android:name="com.example.page_number_01.Clicking_on_Button_02"
-115-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:91:13-50
+115-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:91:13-50
 116            android:exported="false" />
-116-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:92:13-37
+116-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:92:13-37
 117        <activity
-117-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:93:9-95:40
+117-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:93:9-95:40
 118            android:name="com.example.page_number_01.Clicking_on_Button_01"
-118-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:94:13-50
+118-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:94:13-50
 119            android:exported="false" />
-119-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:95:13-37
+119-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:95:13-37
 120        <activity
-120-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:96:9-98:40
+120-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:96:9-98:40
 121            android:name="com.example.page_number_01.Scroll_view_restaurant_near_by_location"
-121-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:97:13-68
+121-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:97:13-68
 122            android:exported="false" />
-122-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:98:13-37
+122-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:98:13-37
 123        <activity
-123-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:99:9-101:40
+123-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:99:9-101:40
 124            android:name="com.example.page_number_01.restaurant_near_by_locat"
-124-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:100:13-53
+124-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:100:13-53
 125            android:exported="false" />
-125-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:101:13-37
+125-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:101:13-37
 126        <activity
-126-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:102:9-106:71
+126-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:102:9-106:71
 127            android:name="com.example.page_number_01.restaurant_near_by_location"
-127-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:103:13-56
+127-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:103:13-56
 128            android:exported="false"
-128-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:104:13-37
+128-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:104:13-37
 129            android:label="@string/title_activity_restaurant_near_by_location"
-129-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:105:13-79
+129-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:105:13-79
 130            android:theme="@style/Theme.Page_number_01.NoActionBar" />
-130-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:106:13-68
+130-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:106:13-68
 131        <activity
-131-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:107:9-109:40
+131-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:107:9-109:40
 132            android:name="com.example.page_number_01.RestaurantOwnerSignUpPageNumber02"
-132-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:108:13-62
+132-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:108:13-62
 133            android:exported="false" />
-133-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:109:13-37
+133-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:109:13-37
 134        <activity
-134-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:110:9-112:40
+134-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:110:9-112:40
 135            android:name="com.example.page_number_01.RestaurantOwnerSignUpPageNumber01"
-135-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:111:13-62
+135-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:111:13-62
 136            android:exported="false" />
-136-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:112:13-37
+136-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:112:13-37
 137        <activity
-137-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:113:9-115:40
+137-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:113:9-115:40
 138            android:name="com.example.page_number_01.RestaurantOwnerLoginPage"
-138-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:114:13-53
+138-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:114:13-53
 139            android:exported="false" />
-139-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:115:13-37
+139-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:115:13-37
 140        <activity
-140-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:116:9-118:40
+140-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:116:9-118:40
 141            android:name="com.example.page_number_01.UserSignInPage"
-141-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:117:13-43
+141-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:117:13-43
 142            android:exported="false" />
-142-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:118:13-37
+142-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:118:13-37
 143        <activity
-143-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:119:9-121:40
+143-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:119:9-121:40
 144            android:name="com.example.page_number_01.UserLogInPage"
-144-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:120:13-42
+144-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:120:13-42
 145            android:exported="false" />
-145-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:121:13-37
+145-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:121:13-37
 146        <activity
-146-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:122:9-124:40
+146-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:122:9-124:40
 147            android:name="com.example.page_number_01.PageNumber02"
-147-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:123:13-41
+147-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:123:13-41
 148            android:exported="false" />
-148-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:124:13-37
+148-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:124:13-37
 149        <activity
-149-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:125:9-127:40
+149-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:125:9-127:40
 150            android:name="com.example.page_number_01.Page_number_02"
-150-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:126:13-43
+150-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:126:13-43
 151            android:exported="false" />
-151-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:127:13-37
+151-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:127:13-37
 152        <activity
-152-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:128:9-136:20
+152-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:128:9-136:20
 153            android:name="com.example.page_number_01.MainActivity"
-153-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:129:13-41
+153-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:129:13-41
 154            android:exported="true" >
-154-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:130:13-36
+154-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:130:13-36
 155            <intent-filter>
-155-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:131:13-135:29
+155-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:131:13-135:29
 156                <action android:name="android.intent.action.MAIN" />
-156-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:132:17-69
-156-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:132:25-66
+156-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:132:17-69
+156-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:132:25-66
 157
 158                <category android:name="android.intent.category.LAUNCHER" />
-158-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:134:17-77
-158-->D:\Project\Foodies_Way\app\src\main\AndroidManifest.xml:134:27-74
+158-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:134:17-77
+158-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:134:27-74
 159            </intent-filter>
 160        </activity>
 161        <activity

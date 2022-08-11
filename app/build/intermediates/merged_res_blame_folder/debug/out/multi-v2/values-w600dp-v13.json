@@ -4,7 +4,7 @@
             "outputFile": "com.example.page_number_01.app-mergeDebugResources-32:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\Foodies_Way\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "D:\\Project\\my_frontend\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
