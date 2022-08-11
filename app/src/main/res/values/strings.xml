@@ -12,7 +12,25 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="restaurant_name">Restaurant_Name</string>
+    <string name="restaurant_name">
+        <element>restaurant_1</element>
+        <element>restaurant_2</element>
+        <element>restaurant_3</element>
+        <element>restaurant_4</element>
+        <element>restaurant_5</element>
+        <element>restaurant_6</element>
+        <element>restaurant_7</element>
+        <element>restaurant_8</element>
+        <element>restaurant_9</element>
+        <element>restaurant_10</element>
+        <element>restaurant_11</element>
+        <element>restaurant_12</element>
+        <element>restaurant_13</element>
+        <element>restaurant_14</element>
+        <element>restaurant_15</element>
+        <element>restaurant_16</element>
+
+    </string>
     <string name="address">address</string>
     <string name="view_more">View More</string>
     <string name="title_activity_user_location_page">User_location_page</string>

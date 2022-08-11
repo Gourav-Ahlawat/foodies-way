@@ -2598,6 +2598,7 @@ drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
 drawable menu_bg_img
+drawable message_popper
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2626,6 +2627,7 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable work_in_progress
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2845,8 +2847,6 @@ id collapseActionView
 id compress
 id confirm_booking_button
 id confirm_button
-id confirmational_message
-id confirmational_message_card_view_constrain_layout
 id constraint
 id constraint_layout
 id constraint_layout_01
@@ -2952,6 +2952,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id go_back
 id gone
 id graph
 id graph_wrap
@@ -2974,6 +2975,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView2
 id image_01
 id image_02
 id image_03
@@ -3129,7 +3131,6 @@ id radio
 id ratio
 id rectangles
 id recyclerview
-id redirect_to_home
 id restaurant_icon
 id restaurant_location
 id restaurant_name
@@ -3440,7 +3441,7 @@ layout activity_clicking_on_button15
 layout activity_clicking_on_button16
 layout activity_clicking_on_button17
 layout activity_clicking_on_button18
-layout activity_conformational_message_for_button1
+layout activity_final_msg_screen
 layout activity_just_for_fun
 layout activity_main
 layout activity_menu_after_clicking_button01

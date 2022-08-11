@@ -40,6 +40,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.Page_number_01" >
         <activity
+            android:name="com.example.page_number_01.final_msg_screen"
+            android:exported="false" />
+        <activity
+            android:name="com.example.page_number_01.final_message"
+            android:exported="false" />
+        <activity
+            android:name="com.example.page_number_01.About_page"
+            android:exported="false" />
+        <activity
             android:name="com.example.page_number_01.Just_for_fun"
             android:exported="false" />
         <activity
@@ -122,12 +131,11 @@
             android:exported="false" />
         <activity
             android:name="com.example.page_number_01.restaurant_near_by_locat"
-            android:exported="false" />
-        <activity
-            android:name="com.example.page_number_01.restaurant_near_by_location"
-            android:exported="false"
-            android:label="@string/title_activity_restaurant_near_by_location"
-            android:theme="@style/Theme.Page_number_01.NoActionBar" />
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".restaurant_near_by_location" -->
+        <!-- android:exported="false" -->
+        <!-- android:label="@string/title_activity_restaurant_near_by_location" -->
+        <!-- android:theme="@style/Theme.Page_number_01.NoActionBar" /> -->
         <activity
             android:name="com.example.page_number_01.RestaurantOwnerSignUpPageNumber02"
             android:exported="false" />

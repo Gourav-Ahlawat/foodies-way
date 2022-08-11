@@ -1,7 +1,9 @@
 package com.example.page_number_01
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 
@@ -37,6 +39,10 @@ class booking_details_revisited : AppCompatActivity() {
         val date=intent.getStringExtra("date")
         date_for_user_response.text=date
 
+        val goa:Button = findViewById(R.id.button_to_go_to_final_thanking_page)
+        goa.setOnClickListener {
+            startActivity(Intent(this,final_msg_screen::class.java))
+        }
     }
 
 }
