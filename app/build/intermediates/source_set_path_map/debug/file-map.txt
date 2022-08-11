@@ -26,12 +26,12 @@ com.example.page_number_01.app-core-ktx-1.7.0-24 C:\Users\Gourav Ahlawat\.gradle
 com.example.page_number_01.app-core-1.7.0-25 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\e7d7ca173d3ef3819066a5eafa48db73\transformed\core-1.7.0\res
 com.example.page_number_01.app-coordinatorlayout-1.1.0-26 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\ecda6ba8fb73af3ceba1bb5d5e9649b9\transformed\coordinatorlayout-1.1.0\res
 com.example.page_number_01.app-annotation-experimental-1.1.0-27 C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\ff2eb9bff7c44d886758be1da903ee94\transformed\annotation-experimental-1.1.0\res
-com.example.page_number_01.app-google-services-28 D:\Project\Foodies_Way\app\build\generated\res\google-services\debug
-com.example.page_number_01.app-pngs-29 D:\Project\Foodies_Way\app\build\generated\res\pngs\debug
-com.example.page_number_01.app-resValues-30 D:\Project\Foodies_Way\app\build\generated\res\resValues\debug
-com.example.page_number_01.app-rs-31 D:\Project\Foodies_Way\app\build\generated\res\rs\debug
-com.example.page_number_01.app-packageDebugResources-32 D:\Project\Foodies_Way\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.page_number_01.app-packageDebugResources-33 D:\Project\Foodies_Way\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.page_number_01.app-merged_res-34 D:\Project\Foodies_Way\app\build\intermediates\merged_res\debug
-com.example.page_number_01.app-debug-35 D:\Project\Foodies_Way\app\src\debug\res
-com.example.page_number_01.app-main-36 D:\Project\Foodies_Way\app\src\main\res
+com.example.page_number_01.app-google-services-28 D:\Project\my_frontend\app\build\generated\res\google-services\debug
+com.example.page_number_01.app-pngs-29 D:\Project\my_frontend\app\build\generated\res\pngs\debug
+com.example.page_number_01.app-resValues-30 D:\Project\my_frontend\app\build\generated\res\resValues\debug
+com.example.page_number_01.app-rs-31 D:\Project\my_frontend\app\build\generated\res\rs\debug
+com.example.page_number_01.app-packageDebugResources-32 D:\Project\my_frontend\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.page_number_01.app-packageDebugResources-33 D:\Project\my_frontend\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.page_number_01.app-merged_res-34 D:\Project\my_frontend\app\build\intermediates\merged_res\debug
+com.example.page_number_01.app-debug-35 D:\Project\my_frontend\app\src\debug\res
+com.example.page_number_01.app-main-36 D:\Project\my_frontend\app\src\main\res
