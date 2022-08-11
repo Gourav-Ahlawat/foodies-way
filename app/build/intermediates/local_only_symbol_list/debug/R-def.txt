@@ -31,7 +31,9 @@ drawable img_4
 drawable img_5
 drawable img_6
 drawable menu_bg_img
+drawable message_popper
 drawable revisit_icon
+drawable work_in_progress
 id Booker_phone_number
 id Button_for_sign_up
 id Edit_text_for_Address
@@ -121,8 +123,6 @@ id card_view_16
 id card_view_17
 id card_view_18
 id confirm_booking_button
-id confirmational_message
-id confirmational_message_card_view_constrain_layout
 id constraint_layout
 id constraint_layout_01
 id constraint_layout_02
@@ -149,8 +149,10 @@ id forward_page_1
 id forward_page_2
 id forward_page_3
 id forward_page_4
+id go_back
 id image
 id imageView
+id imageView2
 id image_01
 id image_02
 id image_03
@@ -180,7 +182,6 @@ id nav_graph
 id number_of_persons
 id phone_number_of_booker
 id recyclerview
-id redirect_to_home
 id restaurant_icon
 id restaurant_location
 id restaurant_name
@@ -254,7 +255,7 @@ layout activity_clicking_on_button15
 layout activity_clicking_on_button16
 layout activity_clicking_on_button17
 layout activity_clicking_on_button18
-layout activity_conformational_message_for_button1
+layout activity_final_msg_screen
 layout activity_just_for_fun
 layout activity_main
 layout activity_menu_after_clicking_button01

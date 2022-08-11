@@ -28,7 +28,25 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
     <string name="project_id" translatable="false">foodies-way</string>
-    <string name="restaurant_name">Restaurant_Name</string>
+    <string name="restaurant_name">
+        <element>restaurant_1</element>
+        <element>restaurant_2</element>
+        <element>restaurant_3</element>
+        <element>restaurant_4</element>
+        <element>restaurant_5</element>
+        <element>restaurant_6</element>
+        <element>restaurant_7</element>
+        <element>restaurant_8</element>
+        <element>restaurant_9</element>
+        <element>restaurant_10</element>
+        <element>restaurant_11</element>
+        <element>restaurant_12</element>
+        <element>restaurant_13</element>
+        <element>restaurant_14</element>
+        <element>restaurant_15</element>
+        <element>restaurant_16</element>
+
+    </string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="title_activity_restaurant_near_by_location">restaurant_near_by_location</string>
     <string name="title_activity_user_location_page">User_location_page</string>

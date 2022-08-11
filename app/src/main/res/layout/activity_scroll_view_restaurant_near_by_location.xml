@@ -40,14 +40,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_1.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_1"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -108,14 +108,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_2.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_2"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -175,14 +175,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_3.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_3"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -242,14 +242,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_4.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_4"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -309,14 +309,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_5.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_5"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -376,14 +376,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_6.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_6"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -443,14 +443,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_7.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_7"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -510,14 +510,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_8.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_8"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -577,14 +577,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_9.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_9"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -644,14 +644,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_10.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_10"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -711,14 +711,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_11.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_11"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -778,14 +778,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_12.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_12"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -845,14 +845,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_13.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_13"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -912,14 +912,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_14.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_14"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -979,14 +979,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_15.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_15"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -1046,14 +1046,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_16.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_16"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -1113,14 +1113,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_17.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_17"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"
@@ -1180,14 +1180,14 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/ic_launcher_background"
+                    tools:srcCompat="@tools:sample/avatars"
                     android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/textView_18.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/restaurant_name"
+                    android:text="restaurant_18"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.5"

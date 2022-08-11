@@ -35,7 +35,10 @@ class RestaurantOwnerLoginPage : AppCompatActivity() {
         binding = ActivityRestaurantOwnerLoginPageBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-
+        val forget:TextView = findViewById(R.id.forget_password)
+        forget.setOnClickListener {
+            startActivity(Intent(this,Just_for_fun::class.java))
+        }
         // configure actionBar
         actionBar=supportActionBar!!
         actionBar.title="Login"

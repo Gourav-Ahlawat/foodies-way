@@ -32,7 +32,10 @@ class UserLogInPage : AppCompatActivity() {
         setContentView(binding.root)
 
 //        binding = ActivityUserLogInPageBinding.inflate(layoutInflater)
-
+        val forgetp:TextView = findViewById(R.id.forget_password)
+        forgetp.setOnClickListener {
+            startActivity(Intent(this,Just_for_fun::class.java))
+        }
 
         actionBar= supportActionBar!!
         actionBar.title="SIGN IN"
