@@ -7,13 +7,14 @@
     android:background="@drawable/bg_img"
     tools:context=".Clicking_on_Button_16">
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button_Number_16"
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="339dp"
+        android:layout_height="306dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/work_in_progress" />
 </androidx.constraintlayout.widget.ConstraintLayout>
