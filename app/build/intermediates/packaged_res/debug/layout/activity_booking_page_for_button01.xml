@@ -141,6 +141,7 @@
         android:layout_marginTop="480dp"
         android:text="Enter the time of arrival"
         android:textColor="#000000"
+        android:inputType="date"
         android:textSize="15dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
