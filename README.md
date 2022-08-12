@@ -1,1 +1,1 @@
-* *npm install -D requirements* *</br>
+npm install -D requirements
