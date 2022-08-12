@@ -40,6 +40,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Page_number_01" >
         <activity
+            android:name="com.example.page_number_01.Review_page"
+            android:exported="false" />
+        <activity
             android:name="com.example.page_number_01.final_msg_screen"
             android:exported="false" />
         <activity

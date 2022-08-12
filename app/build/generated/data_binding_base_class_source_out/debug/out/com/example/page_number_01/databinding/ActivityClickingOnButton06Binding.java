@@ -4,7 +4,7 @@ package com.example.page_number_01.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
+import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -20,12 +20,12 @@ public final class ActivityClickingOnButton06Binding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textView3;
+  public final ImageView imageView7;
 
   private ActivityClickingOnButton06Binding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textView3) {
+      @NonNull ImageView imageView7) {
     this.rootView = rootView;
-    this.textView3 = textView3;
+    this.imageView7 = imageView7;
   }
 
   @Override
@@ -55,13 +55,13 @@ public final class ActivityClickingOnButton06Binding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.textView3;
-      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
-      if (textView3 == null) {
+      id = R.id.imageView7;
+      ImageView imageView7 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView7 == null) {
         break missingId;
       }
 
-      return new ActivityClickingOnButton06Binding((ConstraintLayout) rootView, textView3);
+      return new ActivityClickingOnButton06Binding((ConstraintLayout) rootView, imageView7);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

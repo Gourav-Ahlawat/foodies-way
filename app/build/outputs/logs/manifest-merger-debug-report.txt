@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\333c1cf95b311650db0bb51fff7284e8\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\856d5d6c1bf324327451742470491727\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\384099d6b64d2f91d5d241f01ee3862c\transformed\fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
@@ -78,22 +78,22 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gourav Ahlawat\.
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\d92195ccf2ead895b8c70feb70f77bca\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\1923f7e0281e988f62c23a59b6d5899d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\ff2eb9bff7c44d886758be1da903ee94\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
-INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
 	package
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:4:5-41
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-147:12
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:1-150:12
 		INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:2:11-69
@@ -114,7 +114,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:8:5-145:19
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:8:5-148:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0d17419064caa93c3408fcdb59e80409\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\0d17419064caa93c3408fcdb59e80409\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Gourav Ahlawat\.gradle\caches\transforms-3\1afcdec5cdde72f776d05f9e809eb8d4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -185,250 +185,256 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Gourav Ahlawat\.gr
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:16:9-52
 	android:dataExtractionRules
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:10:9-65
-activity#com.example.page_number_01.final_msg_screen
+activity#com.example.page_number_01.Review_page
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:19:13-45
-activity#com.example.page_number_01.final_message
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:19:13-40
+activity#com.example.page_number_01.final_msg_screen
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:22:13-42
-activity#com.example.page_number_01.About_page
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:22:13-45
+activity#com.example.page_number_01.final_message
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:25:13-39
-activity#com.example.page_number_01.Just_for_fun
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.example.page_number_01.About_page
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:28:13-41
-activity#com.example.page_number_01.booking_details_revisited
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:28:13-39
+activity#com.example.page_number_01.Just_for_fun
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:31:13-54
-activity#com.example.page_number_01.conformation_message_for_button_1
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:31:13-41
+activity#com.example.page_number_01.booking_details_revisited
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:34:13-62
-activity#com.example.page_number_01.booking_page_for_button_01
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:34:13-54
+activity#com.example.page_number_01.conformation_message_for_button_1
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:36:9-38:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:37:13-55
-activity#com.example.page_number_01.Menu_after_clicking_button01_number_04
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:37:13-62
+activity#com.example.page_number_01.booking_page_for_button_01
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:39:9-41:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:40:13-67
-activity#com.example.page_number_01.Menu_after_clicking_button01_number_03
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:40:13-55
+activity#com.example.page_number_01.Menu_after_clicking_button01_number_04
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:42:9-44:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:44:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:43:13-67
-activity#com.example.page_number_01.Menu_after_clicking_button01_number_02
+activity#com.example.page_number_01.Menu_after_clicking_button01_number_03
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:45:9-47:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:47:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:46:13-67
-activity#com.example.page_number_01.Menu_after_clicking_button_01
+activity#com.example.page_number_01.Menu_after_clicking_button01_number_02
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:48:9-50:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:50:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:49:13-58
-activity#com.example.page_number_01.Clicking_on_Button_18
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:49:13-67
+activity#com.example.page_number_01.Menu_after_clicking_button_01
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:51:9-53:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:52:13-50
-activity#com.example.page_number_01.Clicking_on_Button_17
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:52:13-58
+activity#com.example.page_number_01.Clicking_on_Button_18
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:54:9-56:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:56:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:55:13-50
-activity#com.example.page_number_01.Clicking_on_Button_16
+activity#com.example.page_number_01.Clicking_on_Button_17
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:57:9-59:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:59:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:58:13-50
-activity#com.example.page_number_01.Clicking_on_Button_15
+activity#com.example.page_number_01.Clicking_on_Button_16
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:60:9-62:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:62:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:61:13-50
-activity#com.example.page_number_01.Clicking_on_Button_14
+activity#com.example.page_number_01.Clicking_on_Button_15
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:63:9-65:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:65:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:64:13-50
-activity#com.example.page_number_01.Clicking_on_Button_13
+activity#com.example.page_number_01.Clicking_on_Button_14
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:66:9-68:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:68:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:67:13-50
-activity#com.example.page_number_01.Clicking_on_Button_12
+activity#com.example.page_number_01.Clicking_on_Button_13
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:69:9-71:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:71:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:70:13-50
-activity#com.example.page_number_01.Clicking_on_Button_11
+activity#com.example.page_number_01.Clicking_on_Button_12
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:72:9-74:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:74:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:73:13-50
-activity#com.example.page_number_01.Clicking_on_Button_10
+activity#com.example.page_number_01.Clicking_on_Button_11
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:75:9-77:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:77:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:76:13-50
-activity#com.example.page_number_01.Clicking_on_Button_09
+activity#com.example.page_number_01.Clicking_on_Button_10
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:78:9-80:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:80:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:79:13-50
-activity#com.example.page_number_01.Clicking_on_Button_08
+activity#com.example.page_number_01.Clicking_on_Button_09
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:81:9-83:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:83:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:82:13-50
-activity#com.example.page_number_01.Clicking_on_Button_07
+activity#com.example.page_number_01.Clicking_on_Button_08
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:84:9-86:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:86:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:85:13-50
-activity#com.example.page_number_01.Clicking_on_Button_06
+activity#com.example.page_number_01.Clicking_on_Button_07
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:87:9-89:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:89:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:88:13-50
-activity#com.example.page_number_01.Clicking_on_Button_05
+activity#com.example.page_number_01.Clicking_on_Button_06
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:90:9-92:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:92:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:91:13-50
-activity#com.example.page_number_01.Clicking_on_Button_04
+activity#com.example.page_number_01.Clicking_on_Button_05
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:93:9-95:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:95:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:94:13-50
-activity#com.example.page_number_01.Clicking_on_Button_03
+activity#com.example.page_number_01.Clicking_on_Button_04
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:96:9-98:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:98:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:97:13-50
-activity#com.example.page_number_01.Clicking_on_Button_02
+activity#com.example.page_number_01.Clicking_on_Button_03
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:99:9-101:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:101:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:100:13-50
-activity#com.example.page_number_01.Clicking_on_Button_01
+activity#com.example.page_number_01.Clicking_on_Button_02
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:102:9-104:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:104:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:103:13-50
-activity#com.example.page_number_01.Scroll_view_restaurant_near_by_location
+activity#com.example.page_number_01.Clicking_on_Button_01
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:105:9-107:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:107:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:106:13-68
-activity#com.example.page_number_01.restaurant_near_by_locat
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:106:13-50
+activity#com.example.page_number_01.Scroll_view_restaurant_near_by_location
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:108:9-110:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:110:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:109:13-53
-activity#com.example.page_number_01.RestaurantOwnerSignUpPageNumber02
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:115:9-117:40
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:109:13-68
+activity#com.example.page_number_01.restaurant_near_by_locat
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:111:9-113:40
 	android:exported
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:117:13-37
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:113:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:116:13-62
-activity#com.example.page_number_01.RestaurantOwnerSignUpPageNumber01
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:112:13-53
+activity#com.example.page_number_01.RestaurantOwnerSignUpPageNumber02
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:118:9-120:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:120:13-37
 	android:name
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:119:13-62
-activity#com.example.page_number_01.RestaurantOwnerLoginPage
+activity#com.example.page_number_01.RestaurantOwnerSignUpPageNumber01
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:121:9-123:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:123:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:122:13-53
-activity#com.example.page_number_01.UserSignInPage
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:122:13-62
+activity#com.example.page_number_01.RestaurantOwnerLoginPage
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:124:9-126:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:126:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:125:13-43
-activity#com.example.page_number_01.UserLogInPage
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:125:13-53
+activity#com.example.page_number_01.UserSignInPage
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:127:9-129:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:129:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:128:13-42
-activity#com.example.page_number_01.PageNumber02
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:128:13-43
+activity#com.example.page_number_01.UserLogInPage
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:130:9-132:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:132:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:131:13-41
-activity#com.example.page_number_01.Page_number_02
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:131:13-42
+activity#com.example.page_number_01.PageNumber02
 ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:133:9-135:40
 	android:exported
 		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:135:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:134:13-43
-activity#com.example.page_number_01.MainActivity
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:136:9-144:20
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:134:13-41
+activity#com.example.page_number_01.Page_number_02
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:136:9-138:40
 	android:exported
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:138:13-36
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:138:13-37
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:137:13-41
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:137:13-43
+activity#com.example.page_number_01.MainActivity
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:139:9-147:20
+	android:exported
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:141:13-36
+	android:name
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:140:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:139:13-143:29
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:142:13-146:29
 action#android.intent.action.MAIN
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:140:17-69
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:143:17-69
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:140:25-66
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:143:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:142:17-77
+ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:145:17-77
 	android:name
-		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:142:27-74
+		ADDED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml:145:27-74
 uses-sdk
 INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Project\my_frontend\app\src\main\AndroidManifest.xml
