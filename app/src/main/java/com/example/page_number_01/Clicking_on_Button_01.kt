@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageButton
+import android.widget.TextView
 
 class Clicking_on_Button_01 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,6 +22,11 @@ class Clicking_on_Button_01 : AppCompatActivity() {
         button.setOnClickListener {
             val intent1= Intent(this,booking_page_for_button_01::class.java)
             startActivity(intent1)
+        }
+
+        val rev:TextView = findViewById(R.id.review_text_view)
+        rev.setOnClickListener {
+            startActivity(Intent(this, Review_page::class.java))
         }
     }
 }
