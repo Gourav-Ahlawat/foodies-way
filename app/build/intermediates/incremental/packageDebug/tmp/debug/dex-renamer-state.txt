@@ -1,4 +1,4 @@
-#Fri Aug 12 12:35:35 IST 2022
+#Fri Aug 12 20:08:31 IST 2022
 base.1=D\:\\Project\\my_frontend\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.1=classes2.dex
 base.0=D\:\\Project\\my_frontend\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex

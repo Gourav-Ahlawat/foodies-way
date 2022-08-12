@@ -69,26 +69,26 @@
 41-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:16:9-52
 42        <activity
 42-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:18:9-20:40
-43            android:name="com.example.page_number_01.Review_page"
-43-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:19:13-40
+43            android:name="com.example.page_number_01.About_page"
+43-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:19:13-39
 44            android:exported="false" />
 44-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:20:13-37
 45        <activity
 45-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:21:9-23:40
-46            android:name="com.example.page_number_01.final_msg_screen"
-46-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:22:13-45
+46            android:name="com.example.page_number_01.Review_page"
+46-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:22:13-40
 47            android:exported="false" />
 47-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:23:13-37
 48        <activity
 48-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:24:9-26:40
-49            android:name="com.example.page_number_01.final_message"
-49-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:25:13-42
+49            android:name="com.example.page_number_01.final_msg_screen"
+49-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:25:13-45
 50            android:exported="false" />
 50-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:26:13-37
 51        <activity
 51-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:27:9-29:40
-52            android:name="com.example.page_number_01.About_page"
-52-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:28:13-39
+52            android:name="com.example.page_number_01.final_message"
+52-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:28:13-42
 53            android:exported="false" />
 53-->D:\Project\my_frontend\app\src\main\AndroidManifest.xml:29:13-37
 54        <activity

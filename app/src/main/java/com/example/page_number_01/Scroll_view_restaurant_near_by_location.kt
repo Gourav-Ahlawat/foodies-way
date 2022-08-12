@@ -91,55 +91,5 @@ class Scroll_view_restaurant_near_by_location : AppCompatActivity() {
             val intent12 = Intent(this,Clicking_on_Button_12::class.java)
             startActivity(intent12)
         }
-
-        // for button_13
-        val button13: Button = findViewById(R.id.button_13)
-        button13.setOnClickListener{
-            val intent13 = Intent(this,Clicking_on_Button_13::class.java)
-            startActivity(intent13)
-        }
-
-        // for button_14
-        val button14: Button = findViewById(R.id.button_14)
-        button14.setOnClickListener{
-            val intent14 = Intent(this,Clicking_on_Button_14::class.java)
-            startActivity(intent14)
-        }
-
-        // for button_15
-        val button15: Button = findViewById(R.id.button_15)
-        button15.setOnClickListener{
-            val intent15 = Intent(this,Clicking_on_Button_15::class.java)
-            startActivity(intent15)
-        }
-
-        // for button_16
-        val button16: Button = findViewById(R.id.button_16)
-        button16.setOnClickListener{
-            val intent16 = Intent(this,Clicking_on_Button_16::class.java)
-            startActivity(intent16)
-        }
-
-        // for button_17
-        val button17: Button = findViewById(R.id.button_17)
-        button17.setOnClickListener{
-            val intent17 = Intent(this,Clicking_on_Button_17::class.java)
-            startActivity(intent17)
-        }
-
-        // for button_18
-        val button18: Button = findViewById(R.id.button_18)
-        button18.setOnClickListener{
-            val intent18 = Intent(this,Clicking_on_Button_18::class.java)
-            startActivity(intent18)
-        }
-
-
-
-
-
-
     }
-
-
 }

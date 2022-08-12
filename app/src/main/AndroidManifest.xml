@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.page_number_01">
+    package="com.example.page_number_01" >
     <!-- add internet permission -->
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -14,7 +14,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Page_number_01"
-        tools:targetApi="31">
+        tools:targetApi="31" >
+        <activity
+            android:name=".About_page"
+            android:exported="false" />
         <activity
             android:name=".Review_page"
             android:exported="false" />
@@ -23,9 +26,6 @@
             android:exported="false" />
         <activity
             android:name=".final_message"
-            android:exported="false" />
-        <activity
-            android:name=".About_page"
             android:exported="false" />
         <activity
             android:name=".Just_for_fun"
@@ -138,7 +138,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

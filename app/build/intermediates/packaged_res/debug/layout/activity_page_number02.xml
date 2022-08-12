@@ -22,7 +22,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitXY"
-            app:srcCompat="@drawable/fw_background_image" />
+            app:srcCompat="@drawable/fw_background_image"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="50dp" />
 
         <Button
             android:id="@+id/Login_as_user_button"
@@ -63,6 +65,22 @@
             app:layout_constraintHorizontal_bias="0.494"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/Login_as_user_button"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginTop="162dp"
+            android:autoText="false"
+           android:id="@+id/tv_for_about"
+            android:text="About"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            app:drawableTint="#514E4E"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Login_as_restraunt_owner_button"
             app:layout_constraintVertical_bias="0.0" />
 
 
