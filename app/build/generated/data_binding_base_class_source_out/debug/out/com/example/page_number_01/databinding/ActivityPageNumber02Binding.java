@@ -33,19 +33,14 @@ public final class ActivityPageNumber02Binding implements ViewBinding {
   @NonNull
   public final TextView ORBetweenButtons;
 
-  @NonNull
-  public final TextView tvForAbout;
-
   private ActivityPageNumber02Binding(@NonNull ConstraintLayout rootView,
       @NonNull ImageView ImageViewForApp, @NonNull Button LoginAsRestrauntOwnerButton,
-      @NonNull Button LoginAsUserButton, @NonNull TextView ORBetweenButtons,
-      @NonNull TextView tvForAbout) {
+      @NonNull Button LoginAsUserButton, @NonNull TextView ORBetweenButtons) {
     this.rootView = rootView;
     this.ImageViewForApp = ImageViewForApp;
     this.LoginAsRestrauntOwnerButton = LoginAsRestrauntOwnerButton;
     this.LoginAsUserButton = LoginAsUserButton;
     this.ORBetweenButtons = ORBetweenButtons;
-    this.tvForAbout = tvForAbout;
   }
 
   @Override
@@ -99,14 +94,8 @@ public final class ActivityPageNumber02Binding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.tv_for_about;
-      TextView tvForAbout = ViewBindings.findChildViewById(rootView, id);
-      if (tvForAbout == null) {
-        break missingId;
-      }
-
       return new ActivityPageNumber02Binding((ConstraintLayout) rootView, ImageViewForApp,
-          LoginAsRestrauntOwnerButton, LoginAsUserButton, ORBetweenButtons, tvForAbout);
+          LoginAsRestrauntOwnerButton, LoginAsUserButton, ORBetweenButtons);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

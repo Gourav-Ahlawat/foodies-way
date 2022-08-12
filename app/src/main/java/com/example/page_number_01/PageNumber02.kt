@@ -32,11 +32,7 @@ class PageNumber02 : AppCompatActivity() {
             startActivity(intent1)
         }
 
-        val tv : TextView = findViewById(R.id.tv_for_about)
-        tv.setOnClickListener {
-            val intent2 = Intent(this,About_page :: class.java)
-            startActivity(intent2)
-        }
+
 
 
 

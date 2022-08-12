@@ -1,11 +1,15 @@
 package com.example.page_number_01
 
+import android.app.DatePickerDialog
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.DatePicker
 import android.widget.EditText
 import android.widget.TextView
+import java.text.SimpleDateFormat
+import java.util.*
 
 class booking_page_for_button_01 : AppCompatActivity() {
 
@@ -22,7 +26,19 @@ class booking_page_for_button_01 : AppCompatActivity() {
         val phone_number_for_user: EditText=findViewById(R.id.Booker_phone_number)
         val number_of_persons_for_user:EditText=findViewById(R.id.Persons_coming)
         val time_for_user: EditText=findViewById(R.id.time_of_booking)
-        val date_for_user: EditText=findViewById(R.id.date_of_booking)
+
+
+
+        val date_for_user : EditText=findViewById(R.id.date_of_booking)
+
+//        val mycalender = Calendar.getInstance()
+//            val datepicker = DatePickerDialog.OnDateSetListener { view, year, month, dayOfMonth ->
+//                mycalender.set(Calendar.YEAR,year)
+//                mycalender.set(Calendar.MONTH,month)
+//                mycalender.set(Calendar.DAY_OF_MONTH,dayOfMonth)
+//                updateable(mycalender)
+//            }
+
 
 
 
@@ -46,5 +62,13 @@ class booking_page_for_button_01 : AppCompatActivity() {
 
 
 
+
+
     }
+//    date_for_user.SetOnClicker
+//    private fun updateable(mycalender: Calendar) {
+//            val myformat = "dd-mm-yyyy"
+//            val sdf = SimpleDateFormat(myformat,Locale.UK)
+//            date_for_user.setText(sdf.format(mycalender.time))
+//    }
 }
