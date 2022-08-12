@@ -1,0 +1,7 @@
+com.example.page_number_01.test.app-androidTest-0 D:\Project\my_frontend\app\build\generated\res\resValues\androidTest\debug
+com.example.page_number_01.test.app-androidTest-1 D:\Project\my_frontend\app\build\generated\res\rs\androidTest\debug
+com.example.page_number_01.test.app-mergeDebugAndroidTestResources-2 D:\Project\my_frontend\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.page_number_01.test.app-mergeDebugAndroidTestResources-3 D:\Project\my_frontend\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.page_number_01.test.app-merged_res-4 D:\Project\my_frontend\app\build\intermediates\merged_res\debugAndroidTest
+com.example.page_number_01.test.app-androidTest-5 D:\Project\my_frontend\app\src\androidTest\res
+com.example.page_number_01.test.app-androidTestDebug-6 D:\Project\my_frontend\app\src\androidTestDebug\res
