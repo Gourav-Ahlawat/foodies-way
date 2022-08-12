@@ -15,9 +15,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d767c161-0a8b-43e1-b8e7-59788555c5d5" name="Changes" comment="some minor fixes">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
-    </list>
+    <list default="true" id="d767c161-0a8b-43e1-b8e7-59788555c5d5" name="Changes" comment="finally final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -378,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660326123172</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="finally final commit">
+      <created>1660327509744</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660327509745</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +428,8 @@
     <MESSAGE value="final work done2.0" />
     <MESSAGE value="Date bug fix" />
     <MESSAGE value="some minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some minor fixes" />
+    <MESSAGE value="finally final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally final commit" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
