@@ -100,6 +100,7 @@
         <entry key="..\:/Project/my_frontend/app/src/main/res/drawable/app_icon_background.xml" value="0.133" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/drawable/revisit_icon.xml" value="0.133" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/about_page.xml" value="0.14266304347826086" />
+        <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_about_page.xml" value="0.1578125" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_booking_details_revisited.xml" value="0.14266304347826086" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_booking_page_for_button01.xml" value="0.14266304347826086" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_clicking_on_button01.xml" value="0.14266304347826086" />
@@ -125,11 +126,12 @@
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_final_msg_screen.xml" value="0.16666666666666666" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_just_for_fun.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
+        <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_page_number02.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_restaurant_owner_login_page.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number01.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_restaurant_owner_sign_up_page_number02.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_review_page.xml" value="0.1578125" />
-        <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_scroll_view_restaurant_near_by_location.xml" value="0.1" />
+        <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_scroll_view_restaurant_near_by_location.xml" value="0.16666666666666666" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_user_log_in_page.xml" value="0.1" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/activity_user_sign_in_page.xml" value="0.1578125" />
         <entry key="..\:/Project/my_frontend/app/src/main/res/layout/card_view.xml" value="0.1" />

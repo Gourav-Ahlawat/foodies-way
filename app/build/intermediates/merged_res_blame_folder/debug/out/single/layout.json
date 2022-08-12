@@ -24,6 +24,14 @@
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_menu_after_clicking_button01.xml"
     },
     {
+        "merged": "com.example.page_number_01.app-mergeDebugResources-33:/layout/activity_page_number02.xml",
+        "source": "com.example.page_number_01.app-main-36:/layout/activity_page_number02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_about_page.xml",
+        "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_about_page.xml"
+    },
+    {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_menu_after_clicking_button01_number04.xml",
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_menu_after_clicking_button01_number04.xml"
     },
@@ -68,16 +76,20 @@
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_final_msg_screen.xml"
     },
     {
+        "merged": "com.example.page_number_01.app-mergeDebugResources-33:/layout/activity_about_page.xml",
+        "source": "com.example.page_number_01.app-main-36:/layout/activity_about_page.xml"
+    },
+    {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_user_sign_in_page.xml",
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_user_sign_in_page.xml"
     },
     {
-        "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_clicking_on_button06.xml",
-        "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_clicking_on_button06.xml"
-    },
-    {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_scroll_view_restaurant_near_by_location.xml",
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_scroll_view_restaurant_near_by_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_clicking_on_button06.xml",
+        "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_clicking_on_button06.xml"
     },
     {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_clicking_on_button08.xml",
@@ -116,10 +128,6 @@
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_clicking_on_button02.xml"
     },
     {
-        "merged": "com.example.page_number_01.app-mergeDebugResources-33:/layout/activity_review_page.xml",
-        "source": "com.example.page_number_01.app-main-36:/layout/activity_review_page.xml"
-    },
-    {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_restaurant_owner_sign_up_page_number01.xml",
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_restaurant_owner_sign_up_page_number01.xml"
     },
@@ -152,11 +160,11 @@
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_menu_after_clicking_button01_number03.xml"
     },
     {
-        "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_clicking_on_button10.xml",
-        "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_clicking_on_button10.xml"
-    },
-    {
         "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_page_number02.xml",
         "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_page_number02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-mergeDebugResources-33:\\layout\\activity_clicking_on_button10.xml",
+        "source": "C:\\Users\\Gourav Ahlawat\\.gradle\\daemon\\7.3.3\\com.example.page_number_01.app-main-36:\\layout\\activity_clicking_on_button10.xml"
     }
 ]

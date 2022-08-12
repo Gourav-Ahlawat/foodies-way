@@ -22,7 +22,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitXY"
-            app:srcCompat="@drawable/fw_background_image" />
+            app:srcCompat="@drawable/fw_background_image"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="50dp" />
 
         <Button
             android:id="@+id/Login_as_user_button"

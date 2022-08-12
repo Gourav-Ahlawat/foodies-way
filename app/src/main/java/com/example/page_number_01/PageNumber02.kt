@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View.inflate
 import android.widget.Button
+import android.widget.TextView
 import androidx.appcompat.resources.Compatibility.Api21Impl.inflate
 import androidx.core.content.res.ColorStateListInflaterCompat.inflate
 import androidx.core.graphics.drawable.DrawableCompat.inflate
@@ -30,6 +31,14 @@ class PageNumber02 : AppCompatActivity() {
             val intent1= Intent(this,RestaurantOwnerLoginPage :: class.java)
             startActivity(intent1)
         }
+
+        val tv : TextView = findViewById(R.id.tv_for_about)
+        tv.setOnClickListener {
+            val intent2 = Intent(this,About_page :: class.java)
+            startActivity(intent2)
+        }
+
+
 
     }
 }
