@@ -43,6 +43,12 @@ class booking_details_revisited : AppCompatActivity() {
         goa.setOnClickListener {
             startActivity(Intent(this,final_msg_screen::class.java))
         }
+
+        val gob:Button = findViewById(R.id.Return_to_fill_details_of_booking_page)
+        gob.setOnClickListener {
+            startActivity(Intent(this,booking_page_for_button_01::class.java))
+        }
     }
+
 
 }
